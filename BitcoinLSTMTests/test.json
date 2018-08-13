@@ -1,0 +1,113 @@
+{
+  "Response": "Success",
+  "Type": 100,
+  "Aggregated": false,
+  "Data": [
+    {
+      "time": 1533996900,
+      "close": 6114.87,
+      "high": 6114.92,
+      "low": 6113.55,
+      "open": 6113.55,
+      "volumefrom": 19.62,
+      "volumeto": 120113.59
+    },
+    {
+      "time": 1533996960,
+      "close": 6113.23,
+      "high": 6114.92,
+      "low": 6113.23,
+      "open": 6114.87,
+      "volumefrom": 26.61,
+      "volumeto": 162714.3
+    },
+    {
+      "time": 1533997020,
+      "close": 6114.83,
+      "high": 6114.88,
+      "low": 6112.96,
+      "open": 6113.67,
+      "volumefrom": 14.46,
+      "volumeto": 88490.83
+    },
+    {
+      "time": 1533997080,
+      "close": 6115.71,
+      "high": 6115.75,
+      "low": 6114.92,
+      "open": 6114.92,
+      "volumefrom": 38.11,
+      "volumeto": 233068.88
+    },
+    {
+      "time": 1533997140,
+      "close": 6119.12,
+      "high": 6119.13,
+      "low": 6115.71,
+      "open": 6115.71,
+      "volumefrom": 62.32,
+      "volumeto": 381113.54
+    },
+    {
+      "time": 1533997200,
+      "close": 6126.09,
+      "high": 6126.09,
+      "low": 6121.47,
+      "open": 6121.47,
+      "volumefrom": 37.93,
+      "volumeto": 232132.46
+    },
+    {
+      "time": 1533997260,
+      "close": 6125.21,
+      "high": 6126.43,
+      "low": 6125.21,
+      "open": 6126.09,
+      "volumefrom": 46.05,
+      "volumeto": 281994.05
+    },
+    {
+      "time": 1533997320,
+      "close": 6125.82,
+      "high": 6126.11,
+      "low": 6124.01,
+      "open": 6125.21,
+      "volumefrom": 19.38,
+      "volumeto": 119047.5
+    },
+    {
+      "time": 1533997380,
+      "close": 6122.53,
+      "high": 6125.25,
+      "low": 6122.53,
+      "open": 6125.04,
+      "volumefrom": 26.34,
+      "volumeto": 161554.67
+    },
+    {
+      "time": 1533997440,
+      "close": 6123.03,
+      "high": 6123.03,
+      "low": 6121.51,
+      "open": 6122.53,
+      "volumefrom": 13.84,
+      "volumeto": 84818.21
+    },
+    {
+      "time": 1533997500,
+      "close": 6126.08,
+      "high": 6126.08,
+      "low": 6123.03,
+      "open": 6123.03,
+      "volumefrom": 0.9005,
+      "volumeto": 5509.04
+    }
+  ],
+  "TimeTo": 1533997500,
+  "TimeFrom": 1533996900,
+  "FirstValueInArray": true,
+  "ConversionType": {
+    "type": "direct",
+    "conversionSymbol": ""
+  }
+}
